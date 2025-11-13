@@ -1,2 +1,2 @@
-I have learnt git workflows, which is very important, like forking,
+What I have learned from this course is git workflows, which is very important, like forking,
 pull requests and cloning
