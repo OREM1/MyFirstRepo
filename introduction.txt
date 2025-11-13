@@ -1,1 +1,3 @@
-
+ Brief Introduction About Myself 
+I am a passionate software engineer and a data scientist.
+I am based in Nairobi, Kenya
